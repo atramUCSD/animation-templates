@@ -1,0 +1,31 @@
+TRELS Experience Update Dec 19 - March 15th 
+
+ - Thoughts so far: Being part of Professor Xia's research project has been an exciting yet intimidating time so far.
+   I've met the 2 team members since joining the TRELS program under Professor Xia: 4th year cog sci student Krystal Zeng
+   and 1st year PHD cog sci student Hui Xin Ng. Being a 2nd year, I can see the vast gap in knowledge between 
+   me and the upperclassmen team members; however, they've been very understanding of my position and have taught me 
+   much about the intricacies of aiding someone's research.
+
+ - Research projects requires punctuality and being consistent with the timeline your professor sets. Having come from 
+   a very time fluid internship previously, I've struggled to balance the quarter and my position. So I give my apologies
+   to my upperclassmen and Professor Xia. I believe Spring Quarter will offer much more promise for me to demonstrate 
+   my ability to help and learn as there won't be personal issues that inhibit my academics and research. 
+
+
+March 2nd:
+
+ - Do not attend meeting as per Professor's instructions
+ - Utilize time given to study up JSON and keep in touch with Hui Xin to stay updated on the data collection
+ - Attend Joe meeting?
+
+March 11th:
+
+ - Finish up JSON prep and study Hui Xin's code by this weekend as per Professor's request
+
+March 13th:
+ - Hui Xin Zoom Debriefing
+
+March 15th:
+ - Prepare a TRELS experience update and confirm with Professor Xia his availability for the TRELS summer program 
+ - Git push this note and study documents
+ - Send github link to Professor 
